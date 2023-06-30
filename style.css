@@ -1,0 +1,30 @@
+div#home {
+    background: url(/view/image/home.jpeg) center center no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+
+div.text {
+    height: 200px;
+    width: 70%;
+    border-radius: 65px;
+}
+
+.description{
+    margin-bottom: 2px;
+    font-size: 13px;
+}
+body{
+    color: rgb(212, 118, 11);
+}
+#had{
+    transform: translate(-35px, -140px);
+    font-style: italic;
+}
+
+#had2{
+    transform: translate(-35px, -130px);
+    font-size: 23px;
+    font-style: italic;
+}
